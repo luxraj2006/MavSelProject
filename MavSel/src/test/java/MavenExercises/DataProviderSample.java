@@ -35,8 +35,7 @@ public class DataProviderSample extends LaunchBrowser{
   								 { "4", "Acapulco", "London" },
 								 { "1", "Acapulco", "New York" },
 								 { "2", "Acapulco", "New York" },
-								 { "3", "Acapulco", "New York" },
-								 { "4", "Acapulco", "New York" }
+								 { "3", "Acapulco", "New York" }
 							  };
 
    		return lstParams;
